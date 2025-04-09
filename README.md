@@ -1,2 +1,2 @@
 # java-script-math-game
-Java-script-math-game
+Developed a javaScript math game project to learn and practise JavaScript
